@@ -1,3 +1,20 @@
+# Używamy oficjalnego, minimalistycznego motywu od GitHuba
 theme: jekyll-theme-minimal
+
+# Tytuł i opis Twojej strony
 title: Skarbnica Improwizatora
-description: Testowa strona startowa.
+description: Narzędzie dla aktorów oparte na Tezaurusie Emocji, Zawodów i Miejsc.
+
+# WAŻNE! Ta linia musi tu zostać, aby linki działały poprawnie.
+baseurl: "/skarbnica_impro"
+
+# Zaktualizowana nawigacja
+navigation:
+  - title: Strona Główna
+    url: /
+  - title: Generator Scen
+    url: /generator.html
+  - title: Fundamenty Improwizacji
+    url: /fundamenty.html
+  - title: Biblioteka Inspiracji
+    url: /biblioteka.html
