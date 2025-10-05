@@ -1,13 +1,17 @@
-title: Narzędziownik Improwizatora
-description: Praktyczne narzędzie dla aktorów i studentów improwizacji.
-url: "https://sanefungus.github.io/"
+# Konfiguracja dla strony Skarbnica Improwizatora
+title: Skarbnica Improwizatora
+description: Narzędzie dla aktorów oparte na Tezaurusie Emocji, Zawodów i Miejsc.
 
+# WAŻNE! Ta linia jest kluczowa dla poprawnego działania Twojej strony.
+baseurl: "/skarbnica_impro"
+
+url: "https://SaneFungus.github.io"
+
+# Definicja menu nawigacyjnego
 navigation:
   - title: Strona Główna
     url: /
-  - title: Fundamenty Improwizacji
+  - title: Fundamenty
     url: /fundamenty.html
-  - title: Generator Scen
+  - title: Generator
     url: /generator.html
-  - title: Biblioteka Inspiracji
-    url: /biblioteka/emocje.html
