@@ -13,9 +13,9 @@ Kliknij przycisk poniżej, aby wylosować unikalny scenariusz do Twojej następn
   <p>Twoja scena pojawi się tutaj...</p>
 </div>
 
-<!-- Ten fragment kodu jest niewidoczny, ale kluczowy. Przekazuje dane z plików .yml do skryptu JavaScript. -->
+<!-- Poprawka: Zmieniliśmy 'const' na 'var', aby zapewnić globalną widoczność zmiennych dla skryptu zewnętrznego. -->
 <script>
-  const emocje = {{ site.data.emocje | to_json }};
-  const zawody = {{ site.data.zawody | to_json }};
-  const miejsca = {{ site.data.miejsca | to_json }};
+  var emocje = {{ site.data.emocje | to_json }};
+  var zawody = {{ site.data.zawody | to_json }};
+  var miejsca = {{ site.data.miejsca | to_json }};
 </script>
