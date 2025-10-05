@@ -1,0 +1,13 @@
+title: Narzędziownik Improwizatora
+description: Praktyczne narzędzie dla aktorów i studentów improwizacji.
+url: "https://sanefungus.github.io/"
+
+navigation:
+  - title: Strona Główna
+    url: /
+  - title: Fundamenty Improwizacji
+    url: /fundamenty.html
+  - title: Generator Scen
+    url: /generator.html
+  - title: Biblioteka Inspiracji
+    url: /biblioteka/emocje.html
