@@ -19,3 +19,5 @@ Kliknij przycisk poniżej, aby wylosować unikalny scenariusz do Twojej następn
   var zawody = {{ site.data.zawody | to_json }};
   var miejsca = {{ site.data.miejsca | to_json }};
 </script>
+
+<script src="{{ site.baseurl }}/assets/js/generator.js"></script>
