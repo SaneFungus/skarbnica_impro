@@ -1,17 +1,3 @@
-# Konfiguracja dla strony Skarbnica Improwizatora
+theme: jekyll-theme-minimal
 title: Skarbnica Improwizatora
-description: Narzędzie dla aktorów oparte na Tezaurusie Emocji, Zawodów i Miejsc.
-
-# WAŻNE! Ta linia jest kluczowa dla poprawnego działania Twojej strony.
-baseurl: "/skarbnica_impro"
-
-url: "https://SaneFungus.github.io"
-
-# Definicja menu nawigacyjnego
-navigation:
-  - title: Strona Główna
-    url: /
-  - title: Fundamenty
-    url: /fundamenty.html
-  - title: Generator
-    url: /generator.html
+description: Testowa strona startowa.
